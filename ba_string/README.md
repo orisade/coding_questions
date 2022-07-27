@@ -34,5 +34,6 @@ the possible splits are:
 	-	bb | b | bb
 	-	bb | bb | b
 	-	bbb | b | b
+	
 *Each part contains the same number of letters 'a', i.e 0.
 
